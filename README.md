@@ -11,4 +11,6 @@ Each image has a light background color with comparatively darker color for the 
 
 There are some lines in the background which are guarenteed to be not as thick as the characters itself.
 
+The characters are oriented only in -30 degrees, -20 degrees, -10 degrees, 0 degrees, 10 degrees, 20 degrees and 30 degrees.
+
 Link to the training dataset used - https://drive.google.com/file/d/1AVihDYXcvMrf4aftXJkZHIR8h1v0XFS_/view?usp=sharing

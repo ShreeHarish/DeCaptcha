@@ -3,7 +3,7 @@ A simple fast ML model trained over a defined captcha dataset that is capable of
 
 # The Dataset
 
-The dataset was provided as a part of assignment for the course CS771 at Indian Institute of Technology, Kanpur, during Summer Term 2022.
+The dataset was provided as a part of assignment for the course CS771 at the Indian Institute of Technology, Kanpur, during Summer Term 2022.
 
 The dataset consists of 2000 synthetically generated images with 4 hex characters in each.
 

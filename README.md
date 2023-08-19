@@ -13,4 +13,12 @@ There are some lines in the background which are guarenteed to be not as thick a
 
 The characters are oriented only in -30 degrees, -20 degrees, -10 degrees, 0 degrees, 10 degrees, 20 degrees and 30 degrees.
 
+
+
+The original intention was to figure out whether the value in the captcha is an odd or even number and the labels were also provided for such.
+
+The Label.txt file available in the dataset was created by the owner for extending the project to cracking the entire captcha. 
+
+
+
 Link to the training dataset used - https://drive.google.com/file/d/1AVihDYXcvMrf4aftXJkZHIR8h1v0XFS_/view?usp=sharing

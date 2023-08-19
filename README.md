@@ -5,7 +5,7 @@ A simple fast ML model trained over a defined captcha dataset that is capable of
 
 The dataset was provided as a part of assignment for the course CS771 at the Indian Institute of Technology, Kanpur, during Summer Term 2022.
 
-The dataset consists of 2000 synthetically generated images with 4 hex characters in each.
+The dataset consists of 2000 images with 4 hex characters in each.
 
 Each image has a light background color with comparatively darker color for the characters.
 
